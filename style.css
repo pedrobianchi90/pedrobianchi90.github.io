@@ -1,0 +1,56 @@
+body {
+    background-color: #036b52;
+    color: white;
+    padding: 2%;
+  }
+  h1 {
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  #nacionalidade {
+    font-style: italic;
+  }
+
+  .c1 {
+    font-size: 10px;
+  }
+
+  .c2 {
+    font-size: 12px;
+  }
+
+  .c3 {
+    font-size: 14px;
+  }
+
+  .c4 {
+    font-size: 16px;
+  }
+
+ #Foto {
+     float: left;
+     padding: 1%;
+     background-color: black;
+ }
+
+ .image-container {
+     height: 270px;
+     position: relative;
+     bottom: 30px;
+ }
+
+ .descricao {
+     position: absolute;
+     left: 230px;
+     top: 100px;
+ }
+
+ ul li:nth-child(odd) {
+     font-style: oblique;
+ }
+ 
